@@ -54,7 +54,10 @@
 <li><?php if (isset($_GET['koto'])){echo $_GET['koto'];}?></li>
 </ul>
 
-
+<h2> le lien de Dom</h2>
+<ul> 
+<li>domduf.com</li>
+</ul>
 
 <h2> données en BDD via bdd-insert</h2>
 <ul> 
